@@ -1,0 +1,44 @@
+_repo: Ansiedlungen-in-den-Urwaldern-von-Canada-Ein-Wegweiser-fur-Auswandrer-nach-Amerika-von-einer-__64383
+_version: 0.0.1
+alternative_title: The backwoods of Canada. German
+contributor:
+  translator:
+    agent_name: Wiese, Friedrich Adolph
+    alias: Wiese, F. A.
+    birthdate: 1800
+    gutenberg_agent_id: '52880'
+    url: http://www.gutenberg.org/2009/agents/52880
+creator:
+  author:
+    agent_name: Traill, Catharine Parr Strickland
+    aliases:
+    - Traill, Catharine Parr
+    - Strickland, Catherine Parr
+    - Traill, Mrs.
+    - Traill, Catherine Parr Strickland
+    birthdate: 1802
+    deathdate: 1899
+    gutenberg_agent_id: '2715'
+    url: http://www.gutenberg.org/2009/agents/2715
+    wikipedia: https://en.wikipedia.org/wiki/Catharine_Parr_Traill
+description: ''
+gutenberg_issued: '2021-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64383'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Ontario'
+- !lcsh 'Canada -- Description and travel'
+- !lcsh 'Traill, Catharine Parr Strickland, 1802-1899 -- Correspondence'
+- !lcc 'F1001'
+- !lcsh 'Women pioneers -- Ontario -- Correspondence'
+- !lcsh 'Ontario -- Description and travel'
+- GITenberg
+title: 'Ansiedlungen in den Urwäldern von Canada.
+
+  Ein Wegweiser für Auswandrer nach Amerika von einer Emigrantin.'
+url: http://www.gutenberg.org/ebooks/64383
